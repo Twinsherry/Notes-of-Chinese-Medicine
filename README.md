@@ -19,4 +19,5 @@ This repository includes some notes of Chinese Medicine.
 - 方剂学方歌
 
 现有的doc/docx格式笔记包括
+- 中药学整理
 - 内经复习
