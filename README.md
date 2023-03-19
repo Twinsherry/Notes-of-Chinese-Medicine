@@ -2,7 +2,7 @@
 
 Copyright（C） 2017-2023 Amika
 
-Do Not Leak
+Do Not Reprint
 
 This repository includes some notes of Chinese Medicine.
 
