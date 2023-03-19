@@ -6,6 +6,8 @@ Do Not Reprint
 
 This repository includes some notes of Chinese Medicine.
 
+**If you have some great ideas，please submit issues to us.**
+
 ## 临床医学（杏林）笔记系列
 
 贵安，这里是雪祈·艾米卡，尽管对外已经不再以医学相关的身份自居，但是还是会尽可能多整理一些笔记。
