@@ -16,9 +16,7 @@ This repository includes some notes of Chinese Medicine.
 - 针灸学
 - 中医外科学
 - 中医妇科学
-
-现有的已完结Markdown笔记包括
-- 方剂学方歌
+- 方剂学方歌（目前正在更新以适配考研大纲内容）
 
 现有的doc/docx格式笔记包括
 - 中药学整理
