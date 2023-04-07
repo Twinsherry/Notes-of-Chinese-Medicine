@@ -21,3 +21,6 @@ This repository includes some notes of Chinese Medicine.
 现有的doc/docx格式笔记包括
 - 中药学整理
 - 内经复习
+
+现有的pdf格式笔记包括
+- 五运六气笔记
