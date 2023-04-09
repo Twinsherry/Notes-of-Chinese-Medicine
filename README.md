@@ -24,3 +24,8 @@ This repository includes some notes of Chinese Medicine.
 
 现有的pdf格式笔记包括
 - 五运六气笔记
+
+### 友情链接
+
+临床医学笔记(By heyrict)
+[Clinical Medicine Notes](https://github.com/heyrict/clinical-medicine-notes))
