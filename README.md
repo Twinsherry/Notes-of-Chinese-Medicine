@@ -20,7 +20,7 @@ This repository includes some notes of Chinese Medicine.
   - 腧穴分区整理
 - 中医外科学
 - 中医儿科学
-- 方剂学方歌（目前正在更新以适配考研大纲内容）
+- 方剂学方歌
 
 现有的doc/docx格式笔记包括
 - 内经复习
