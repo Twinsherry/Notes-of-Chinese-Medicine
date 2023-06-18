@@ -14,12 +14,17 @@ This repository includes some notes of Chinese Medicine.
 
 现有的更新中Markdown笔记包括
 - 临床中药学
-- 妇产科学（修改自Heyrict的临床医学笔记）
+- 妇产科学（扩充自Heyrict的临床医学笔记）
+  - 妇产科学笔记
+  - 病案记录
+  - 基础知识
+- 中医儿科学
+  - 中医儿科学笔记
+  - 主观题
 - 针灸学
   - 针灸学笔记
   - 腧穴分区整理
 - 中医外科学
-- 中医儿科学
 - 方剂学方歌
 
 现有的doc/docx格式笔记包括
