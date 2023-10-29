@@ -28,10 +28,12 @@ This repository includes some notes of Chinese Medicine.
 - 中医外科学
 - 中医骨伤科学
 - 中医五官科学
+  - 耳鼻喉科学
+  - 眼科学
+- 推拿学
 - 外科学
 - 急诊医学
 - 传染病学
-- 推拿学
 
 现有的doc/docx格式笔记包括
 - 内经复习
